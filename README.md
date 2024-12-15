@@ -3,6 +3,8 @@ This repository contains various algorithm implementations and problem-solving a
 
 Contents Include:
 Algorithm concepts (e.g., sorting, searching, dynamic programming, etc.)
+
 Solutions to popular coding problems
+
 Well-documented code with explanations
 
